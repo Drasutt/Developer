@@ -1,0 +1,47 @@
+* {
+    font-size: 20px;
+}
+header {
+    background-color: pink;
+    border: 2px solid;
+    margin: 2px;
+    padding: 6px 9px;
+}
+
+nav {
+    background-color: orange;
+    border:  2px solid;
+    margin: 2px;
+    padding: 6px 9px;
+}
+
+aside {
+    background-color: greenyellow;
+    border: 2px solid;
+    margin: 2px;
+    padding: 6px 9px;
+}
+section {
+    box-sizing: border-box;
+    background-color: silver;
+    text-align: center;
+    border: 2px solid;
+    margin: 2px;
+    padding: 6px 9px;
+}
+
+article {
+    background-color: #ff0045;
+    border:  0.5px solid;
+    text-align: center;
+    border-radius: 10px;
+    margin: 1.5px;
+    padding: 6px 9px;
+}
+
+footer {
+    background-color: rgb(200, 77, 120);
+    border: 2px solid;
+    margin: 2px;
+    padding: 6px 9px;
+}
